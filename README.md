@@ -1,7 +1,7 @@
 # gitworkshop-STW
 # 🚀 ProjectName
 
-> A short tagline or description of what your project does.
+> HEllo guys welcome to my github. There is not much of work now. But, don't worry it's just a beginning .
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build](https://img.shields.io/github/actions/workflow/status/username/repo-name/ci.yml)
